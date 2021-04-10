@@ -4,3 +4,4 @@ Type option
 Vibrant
 dark mode
 light mode
+voice call
